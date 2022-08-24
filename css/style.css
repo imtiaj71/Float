@@ -1,0 +1,35 @@
+.header{
+   height: 100px;
+   background-color: rgb(227, 173, 227);
+}
+
+.container
+{
+  overflow: hidden;
+  border: 5px solid rgb(11, 99, 192);
+}
+
+.blog{
+    float:left;
+    width: 40%;
+    height: 200px;
+    background-color: rgb(212, 212, 255);
+    
+    }
+
+.contact{
+        float: right;    
+        width: 55%;
+        height: 200px;
+        background-color: rgb(204, 227, 204);
+        }
+.mad{
+    background-color: rgb(237, 204, 144);
+    height: 100px;
+}
+.footer{
+    height: 100px;
+    background-color: black;
+    clear: both;
+
+}
